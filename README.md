@@ -22,3 +22,9 @@ The code provides the following features:
 5.Convergence Check: Iterates the Expectation and Maximization steps until convergence or a maximum number of iterations is reached.
 
 6.Prediction: Assigns data points to the component with the highest responsibility.
+
+# Output
+
+* Scatter plots of the initial data and the final predicted clusters.
+
+* Console output of the final means, covariances, weights, and the number of iterations until convergence.
